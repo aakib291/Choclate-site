@@ -1,0 +1,27 @@
+footer.container {
+  height: auto;
+  width: auto;
+}
+
+img.absolute.inset-0.w-full.h-full.object-cover.object-center {
+  border-radius: 7%;
+}
+
+.carousel-caption h1 {
+  font-size: 70px;
+}
+
+body {
+}
+
+.footer-links {
+  a {
+    padding-bottom: 2px;
+  }
+}
+
+li.font-sans.block.mr-auto.mt-4.lg\:inline-block.lg\:mt-0.lg\:ml-6.align-middle.text-black.hover\:text-gray-700 {
+  position: absolute;
+  right: 33px;
+  top: 17px;
+}
